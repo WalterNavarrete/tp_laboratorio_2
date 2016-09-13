@@ -1,0 +1,8 @@
+c:\users\walter\documents\visual studio 2012\Projects\WalterNavarrete_2C\TP1\bin\Debug\TP1_WalterNavarrete.exe.config
+c:\users\walter\documents\visual studio 2012\Projects\WalterNavarrete_2C\TP1\bin\Debug\TP1_WalterNavarrete.exe
+c:\users\walter\documents\visual studio 2012\Projects\WalterNavarrete_2C\TP1\bin\Debug\TP1_WalterNavarrete.pdb
+c:\users\walter\documents\visual studio 2012\Projects\WalterNavarrete_2C\TP1\obj\Debug\TP1_WalterNavarrete.Form1.resources
+c:\users\walter\documents\visual studio 2012\Projects\WalterNavarrete_2C\TP1\obj\Debug\TP1_WalterNavarrete.Properties.Resources.resources
+c:\users\walter\documents\visual studio 2012\Projects\WalterNavarrete_2C\TP1\obj\Debug\TP1_WalterNavarrete.csproj.GenerateResource.Cache
+c:\users\walter\documents\visual studio 2012\Projects\WalterNavarrete_2C\TP1\obj\Debug\TP1_WalterNavarrete.exe
+c:\users\walter\documents\visual studio 2012\Projects\WalterNavarrete_2C\TP1\obj\Debug\TP1_WalterNavarrete.pdb
