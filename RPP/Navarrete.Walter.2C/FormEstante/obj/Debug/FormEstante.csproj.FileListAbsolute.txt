@@ -1,0 +1,11 @@
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\FormEstante\bin\Debug\FormEstante.exe.config
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\FormEstante\bin\Debug\FormEstante.exe
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\FormEstante\bin\Debug\FormEstante.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\FormEstante\bin\Debug\Entidades.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\FormEstante\bin\Debug\Entidades.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\FormEstante\obj\Debug\FormEstante.FormEstante.resources
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\FormEstante\obj\Debug\FormEstante.exe
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\FormEstante\obj\Debug\FormEstante.pdb

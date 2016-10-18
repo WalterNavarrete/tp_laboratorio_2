@@ -1,0 +1,8 @@
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\TestEstante\bin\Debug\Entidades.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\TestEstante\bin\Debug\Entidades.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C\TestEstante\obj\Debug\TestEstante.pdb
