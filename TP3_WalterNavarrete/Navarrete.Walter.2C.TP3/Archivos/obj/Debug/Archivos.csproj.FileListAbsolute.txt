@@ -1,0 +1,7 @@
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\Archivos\obj\Debug\Archivos.pdb
