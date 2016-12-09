@@ -1,0 +1,13 @@
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\bin\Debug\Excepciones.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\bin\Debug\Archivos.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\bin\Debug\Excepciones.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\bin\Debug\Archivos.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\UnitTestProject\obj\Debug\UnitTestProject.pdb

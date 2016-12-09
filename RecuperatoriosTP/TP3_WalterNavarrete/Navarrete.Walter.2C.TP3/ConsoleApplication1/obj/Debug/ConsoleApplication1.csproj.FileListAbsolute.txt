@@ -1,0 +1,14 @@
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\bin\Debug\Excepciones.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\bin\Debug\Archivos.dll
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\bin\Debug\Excepciones.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\bin\Debug\Archivos.pdb
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Walter\Desktop\Recuperatorio\Navarrete.Walter.2C.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
